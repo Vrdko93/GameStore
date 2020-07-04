@@ -1,0 +1,128 @@
+.wrapper{
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://i.pinimg.com/originals/79/26/30/792630d0ffeee67dda34f51c6a2546f3.jpg);
+}
+
+.game_page_wrapper{
+    height: 1800px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://i.pinimg.com/originals/79/26/30/792630d0ffeee67dda34f51c6a2546f3.jpg);
+}
+
+.logo{
+    width: 300px;
+    height: 100px;
+    float: left;
+}
+
+.game_page_logo{
+    width: 300px;
+    height: 100px;
+    float: left;
+}
+
+.button{
+    background-color: red;
+    cursor: pointer;
+    margin-right: 300px;
+    color: white;
+}
+
+.post_button{
+    background-color: red;
+    cursor: pointer;
+    color: white;
+}
+
+.content_button{
+    background-color: red;
+    cursor: pointer;
+    color: white;
+}
+
+.Link{
+    display: block;
+}
+
+.sidebar{
+    height: 480px;
+    width: 250px; 
+    border: 1px solid black;
+    margin-left: 20px;
+    float: left;
+    background-color: rgb(207, 26, 26);
+}
+
+.sidebar_links{
+    color: white;
+}
+
+.main_content{
+    width: 900px;
+    height: 470px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 20px;
+}
+
+.description_content{
+    width: 1000px;
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 200px;
+    padding: 20px;
+    background-color: rgb(226, 226, 226);
+}
+
+.thumbnail{
+    height: 200px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+}
+
+.game_section{
+    width: 1000px;
+    margin-left: 200px;
+}
+
+.left_section{
+    height: 400px;
+    width: 400px;
+    display: inline-block;
+}
+
+.right_section{
+    height: 400px;
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 200px;
+}
+
+.game_page_thumbnail{
+    height: 500px; 
+    width: 500px;
+}
+
+.recommended_content{
+    width: 1150px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
